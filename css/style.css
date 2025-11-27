@@ -141,8 +141,8 @@ main {
 }
 
 .emoji-icon {
-  width: 7rem;
-  height: 7rem;
+  width: 4rem;
+  height: 4rem;
   object-fit: contain;
 }
 .category-name {
@@ -227,6 +227,8 @@ main {
   body::after {
     font-size: 20rem;
   }
+
+
 
   .hero-emoji {
     gap: 3rem;
